@@ -1,7 +1,3 @@
-*csproj
-*unityproj
-*sln
-*userprefs
-*apk
-*/Library/*
-*/Temp/*
+UnityExamples/Library/
+UnityExamples/Temp/
+*.apk
